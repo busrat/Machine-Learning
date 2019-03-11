@@ -1,17 +1,3 @@
-
-İleti dizisi açıldı. 1 okunmuş ileti.
-
-İçeriğe atla
-Gmail ürününü ekran okuyucularla birlikte kullanma
-in:sent 
-
-İleti Dizileri
-15 GB'lık kotanın 1,44 GB'ı (%9) kullanılıyor
-Yönet
-Şartlar · Gizlilik · Program Politikaları
-Son hesap etkinliği: 1 dakika önce
-Ayrıntılar
-
 import numpy as np
 import pandas as pd
 from sklearn.metrics import r2_score
@@ -193,5 +179,3 @@ plt.bar(label_lst, score_lst)
 plt.xlabel('Models')
 plt.ylabel('Cross Validation r2 score')
 plt.show()
-regression.py
-regression.py görüntüleniyor.
